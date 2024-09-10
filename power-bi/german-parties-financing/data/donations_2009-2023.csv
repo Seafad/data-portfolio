@@ -17,7 +17,7 @@
 15,FDP,300.000,Substantia AG,Berliner Allee 21,40212 Düsseldorf,05.08.2009,06.08.2009,40212 ,Düsseldorf
 16,SPD,60.001,Allianz SE,Königinstraße 28,80802 München,04.08.2009,05.08.2009,80802 ,München
 17,CSU,70.000,Verein der Bayerischen Chemischen Industrie e. V.,Innstraße 15,81679 München,04.08.2009,05.08.2009,81679 ,München
-18,BÜNDNIS 90/ DIE GRÜNEN,60.001,Allianz SE,Königinstraße 28,80802 München,03.08.2009,04.08.2009,80802 ,München
+18,Bündnis 90/Die Grünen,60.001,Allianz SE,Königinstraße 28,80802 München,03.08.2009,04.08.2009,80802 ,München
 19,CDU,106.000,Berenberg Bank Joh. Berenberg Gossler & Co.,Neuer Jungfernstieg 20,20354 Hamburg,08.07.2009,08.07.2009,20354 ,Hamburg
 20,CDU,70.000,Dr.-Ing. E. h. Martin Herrenknecht,Waldweg 9,77963 Schwanau,10.07.2009,15.07.2009,77963 ,Schwanau
 21,CDU,100.000,Verband der Chemischen Industrie e. V.,Karlstraße 21,60329 Frankfurt am Main,30.07.2009,31.07.2009,60329 ,Frankfurt am Main
@@ -57,7 +57,7 @@
 55,NPD,"150.225,84",Verein zur Pflege nationaler Politik e.V.,Grüntenweg 14,72622 Nürtingen,15.09.2010,29.09.2010,72622 ,Nürtingen
 56,CDU,160.000,METALL NRW Verband der Metall- und Elektroindustrie Nordrhein-Westfalen e.V.,Uerdinger Str. 58-62,40474 Düsseldorf,05.08.2010,27.08.2010,40474 ,Düsseldorf
 57,FDP,65.000,Deutsche Vermögensberatung AG,Münchener Straße 1,60329 Frankfurt am Main,17.08.2010,18.08.2010,60329 ,Frankfurt am Main
-58,BÜNDNIS 90/ DIE GRÜNEN,60.001,Allianz SE,Königinstraße 28,80802 München,12.08.2010,16.08.2010,80802 ,München
+58,Bündnis 90/Die Grünen,60.001,Allianz SE,Königinstraße 28,80802 München,12.08.2010,16.08.2010,80802 ,München
 59,CDU,60.001,Allianz SE,Königinstraße 28,80802 München,13.08.2010,13.08.2010,80802 ,München
 60,FDP,50.001,Allianz SE,Königinstraße 28,80802 München,11.08.2010,12.08.2010,80802 ,München
 61,SPD,60.001,Allianz SE,Königinstraße 28,80802 München,12.08.2010,12.08.2010,80802 ,München
@@ -77,13 +77,13 @@
 75,MLPD,"113.969,15",Dr. Irene Nierstenhöfer,Auf der Altstätte 1 C,44369 Dortmund,28.12.2011,30.12.2011,44369 ,Dortmund
 76,FDP,80.000,Verband der Bayerischen Metall- und Elektro-Industrie e. V.,Max-Joseph-Str. 5,80333 München,22.12.2011,23.12.2011,80333 ,München
 77,CSU,320.000,Verband der Bayerischen Metall- und Elektro-Industrie e. V.,Max-Joseph-Str. 5,80333 München,21.12.2011,23.12.2011,80333 ,München
-78,Bündnis 90/DIE GRÜNEN,60.000,Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.,Löffelstraße 22 - 24,70597 Stuttgart,07.10.2011,13.10.2011,70597 ,Stuttgart
+78,Bündnis 90/Die Grünen,60.000,Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.,Löffelstraße 22 - 24,70597 Stuttgart,07.10.2011,13.10.2011,70597 ,Stuttgart
 79,SPD,60.000,Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.,Löffelstraße 22 - 24,70597 Stuttgart,07.10.2011,12.10.2011,70597 ,Stuttgart
 80,CDU,100.000,Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.,Löffelstraße 22 - 24,70597 Stuttgart,07.10.2011,11.10.2011,70597 ,Stuttgart
 81,CDU,60.000,METALL NRW Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.,Uerdinger Straße 58 - 62,40474 Düsseldorf,31.08.2011,02.09.2011,40474 ,Düsseldorf
 82,CDU,150.000,Daimler AG,,70546 Stuttgart,10.08.2011,12.08.2011,70546 ,Stuttgart
 83,SPD,150.000,Daimler AG,,70546 Stuttgart,10.08.2011,10.08.2011,70546 ,Stuttgart
-84,BÜNDNIS 90/DIE GRÜNEN,50.001,Allianz SE,Königinstraße 28,80802 München,01.07.2011,05.07.2011,80802 ,München
+84,Bündnis 90/Die Grünen,50.001,Allianz SE,Königinstraße 28,80802 München,01.07.2011,05.07.2011,80802 ,München
 85,CDU,50.001,Allianz SE,Königinstraße 28,80802 München,01.07.2011,05.07.2011,80802 ,München
 86,CDU,100.000,"Berenberg Bank Joh. Berenberg, Gossler & Co. KG,",Neuer Jungfernstieg 20,20354 Hamburg,01.07.2011,04.07.2011,20354 ,Hamburg
 87,FDP,50.001,Allianz SE,Königinstraße 28,80802 München,01.07.2011,04.07.2011,80802 ,München
@@ -308,8 +308,8 @@
 306,SSW,"122.968,33","Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen Übersetzung: Südschleswig-Ausschuss/ Kulturministerium, Kulturbehörde",H.C. Andersens Boulevard 2,1553 København V.,25.03.2019,01.04.2019,1553 ,København V.
 307,CSU,"95.000,00",Herr Prof. Georg Nemetschek,Müllerstraße 7,80469 München,01.03.2019,04.03.2019,80469 ,München
 308,SSW,"122.904,11","Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen Übersetzung: Südschleswig-Ausschuss/ Kulturministerium, Kulturbehörde",H.C. Andersens Boulevard 2,1553 København V.,25.01.2019,30.01.2019,1553 ,København V.
-309,Bündnis90/DieGrünen,"65.000,00",Herr Antonis Schwarz,Schinkestraße 9,12047 Berlin,28.01.2019,30.01.2019,12047 ,Berlin
-310,Bündnis90/DieGrünen,"120.000,00",Herr Frank Hansen,Neumäuerstraße 39/2,74523 Schwäbisch Hall,09.01.2019,16.01.2019,74523 ,Schwäbisch Hall
+309,Bündnis 90/Die Grünen,"65.000,00",Herr Antonis Schwarz,Schinkestraße 9,12047 Berlin,28.01.2019,30.01.2019,12047 ,Berlin
+310,Bündnis 90/Die Grünen,"120.000,00",Herr Frank Hansen,Neumäuerstraße 39/2,74523 Schwäbisch Hall,09.01.2019,16.01.2019,74523 ,Schwäbisch Hall
 311,CDU,"500.000,00",Gröner Family Office GmbH,Binger Straße 40,14197 Berlin,30.12.2020,31.12.2020,14197 ,Berlin
 312,SPD,"50.001,00",Verband der Bayerischen Metall- und Elektroindustrie e. V.,Max-Joseph-Straße 5,80333 München,23.12.2020,30.12.2020,80333 ,München
 313,CDU,"225.000,00",Christoph Alexander Kahl,Marienburger Str. 17,50968 Köln,29.12.2020,29.12.2020,50968 ,Köln
@@ -333,7 +333,7 @@
 331,MLPD,"50.031,24",Gisela Stein-Gallach,Paßweg 11,44867 Bochum,31.01.2020,04.02.2020,44867 ,Bochum
 332,CDU,"100.000,00",Sachsenmilch Anlagen Holding GmbH,An den Breiten,01454 Wachau,30.01.2020,03.02.2020,01454 ,Wachau
 333,SSW,"123.701,41","Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen Übersetzung: Südschleswig-Ausschuss/ Kulturministerium, Kulturbehörde",H.C. Andersens Boulevard 2,"1553 København V., Dänemark",15.01.2020,20.01.2020,1553 ,"København V., Dänemark"
-334,Bündnis 90 / Die Grünen,50.001,Verband der Bayerischen Metall- und Elektro-Industrie e.V.,Max-Joseph-Str. 5,80333 München,22.12.2021,30.12.2021,80333 ,München
+334,Bündnis 90/Die Grünen,50.001,Verband der Bayerischen Metall- und Elektro-Industrie e.V.,Max-Joseph-Str. 5,80333 München,22.12.2021,30.12.2021,80333 ,München
 335,CSU,750.000,Verband der Bayerischen Metall- und Elektro-Industrie e.V.,Max-Joseph-Str. 5,80333 München,22.12.2021,23.12.2021,80333 ,München
 336,SPD,50.001,Verband der Bayerischen Metall- und Elektro-Industrie e.V.,Max-Joseph-Str. 5,80333 München,22.12.2021,22.12.2021,80333 ,München
 337,FDP,120.000,Verband der Bayerischen Metall- und Elektro-Industrie e.V.,Max-Joseph-Str. 5,80333 München,22.12.2021,22.12.2021,80333 ,München
@@ -432,9 +432,9 @@
 430,SSW,"125.782,36","Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen Übersetzung: Südschleswig-Ausschuss/ Kulturministerium, Kulturbehörde",H.C. Andersens Boulevard 2,"1553 København V., Dänemark",,05.08.2022,1553 ,"København V., Dänemark"
 431,CDU,50.001,Susanne Klatten Günther-Quandt-Haus,Seedammweg 55,61352 Bad Homburg,,01.08.2022,61352 ,Bad Homburg
 432,CDU,50.001,Stefan Quandt Günther-Quandt-Haus,Seedammweg 55,61352 Bad Homburg,,01.08.2022,61352 ,Bad Homburg
-433,Bündnis 90 / Die Grünen,50.001,CRASH Beteiligungs GmbH & Co. KG,Schafjückenweg 2,26180 Rastede,,31.05.2022,26180 ,Rastede
-434,Bündnis 90 / Die Grünen,65.000,Per Fragemann,Rosa-Luxemburg-Str. 20,10178 Berlin,,20.05.2022,10178 ,Berlin
-435,Bündnis 90 / Die Grünen,75.001,Florian Rehm,Neuer Weg 9,38302 Wolfenbüttel,,20.05.2022,38302 ,Wolfenbüttel
+433,Bündnis 90/Die Grünen,50.001,CRASH Beteiligungs GmbH & Co. KG,Schafjückenweg 2,26180 Rastede,,31.05.2022,26180 ,Rastede
+434,Bündnis 90/Die Grünen,65.000,Per Fragemann,Rosa-Luxemburg-Str. 20,10178 Berlin,,20.05.2022,10178 ,Berlin
+435,Bündnis 90/Die Grünen,75.001,Florian Rehm,Neuer Weg 9,38302 Wolfenbüttel,,20.05.2022,38302 ,Wolfenbüttel
 436,CDU,65.000,Klaus-Michael Kühne,Dorfstraße 50,CH-8834 Schindellegi,,29.04.2022,CH-8834 ,Schindellegi
 437,SSW,"125.571,55","Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen Übersetzung: Südschleswig-Ausschuss/ Kulturministerium, Kulturbehörde",H.C. Andersens Boulevard 2,"1553 København V., Dänemark",,08.04.2022,1553 ,"København V., Dänemark"
 438,CDU,100.000,Christoph Alexander Kahl,Pferdmengesstraße 3,50968 Köln,,24.03.2022,50968 ,Köln
@@ -446,7 +446,7 @@
 444,SPD,"50.001,00",,,,27.12.2023,27.12.2023,,
 445,CDU,"500.000,00",Christoph Alexander Kahl,Marienburger Straße 17,50968 Köln,15.12.2023,18.12.2023,50968 ,Köln
 446,VoltDeutsch­landPartei,"250.000,00",Thadaeus Otto,Dr. Nieper-Strasse 7,38640 Goslar,07.12.2023,08.12.2023,38640 ,Goslar
-447,Bündnis 90 / Die Grünen,"50.001,00",Deutsche Vermögensberatung AG,Wilhelm-Leuschner-Straße 24,60329 Frankfurt am Main,10.10.2023,16.10.2023,60329 ,Frankfurt am Main
+447,Bündnis 90/Die Grünen,"50.001,00",Deutsche Vermögensberatung AG,Wilhelm-Leuschner-Straße 24,60329 Frankfurt am Main,10.10.2023,16.10.2023,60329 ,Frankfurt am Main
 448,FDP,"50.001,00",Deutsche Vermögensberatung AG,Wilhelm-Leuschner-Straße 24,60329 Frankfurt am Main,10.10.2023,11.10.2023,60329 ,Frankfurt am Main
 449,CSU,"50.001,00",Deutsche Vermögensberatung AG,Wilhelm-Leuschner-Straße 24,60329 Frankfurt am Main,10.10.2023,11.10.2023,60329 ,Frankfurt am Main
 450,SPD,"50.001,00",Deutsche Vermögensberatung AG,Wilhelm-Leuschner-Straße 24,60329 Frankfurt am Main,10.10.2023,11.10.2023,60329 ,Frankfurt am Main
@@ -464,7 +464,7 @@
 462,FDP,100.000,Christ&Company Consulting GmbH,Kurfürstendamm 213,10719 Berlin,20.06.2023,21.06.2023,10719 ,Berlin
 463,CDU,51.000,Christ&Company Consulting GmbH,Kurfürstendamm 213,10719 Berlin,20.06.2023,21.06.2023,10719 ,Berlin
 464,SPD,51.000,Christ&Company Consulting GmbH,Kurfürstendamm 213,10719 Berlin,20.06.2023,21.06.2023,10719 ,Berlin
-465,Bündnis 90 / Die Grünen,51.000,Christ&Company Consulting GmbH,Kurfürstendamm 213,10719 Berlin,20.06.2023,21.06.2023,10719 ,Berlin
+465,Bündnis 90/Die Grünen,51.000,Christ&Company Consulting GmbH,Kurfürstendamm 213,10719 Berlin,20.06.2023,21.06.2023,10719 ,Berlin
 466,SPD,"54.492,48",ESC Ingenieursgesellschaft für Softwareentwicklung mbH,Mühlensteig 9,22041 Hamburg,23.05.2023,09.06.2023,22041 ,Hamburg
 467,CDU,65.000,Klaus-Michael Kühne,Dorfstraße 50,CH-8834 Schindellegi,03.05.2023,08.05.2023,CH-8834 ,Schindellegi
 468,SSW,"125.660,85",,,,27.03.2023,04.04.2023,,
@@ -473,5 +473,5 @@
 471,FDP,55.000,Ludgerus Inholte,Schatzmeisterstraße 15,22043 Hamburg,03.02.2023,06.02.2023,22043 ,Hamburg
 472,AfD,265.050,Harmut Issmer,Martersteigstraße 42,99423 Weimar,25.01.2023,31.01.2023,99423 ,Weimar
 473,FDP,"51.901,23",Ulrich Horst Marseille,Sportallee 1,22335 Hamburg,11.01.2023,12.01.2023,22335 ,Hamburg
-474,Bündnis 90 / Die Grünen,100.000,Jochen Wermuth,Johannisstraße 3,10117 Berlin,30.12.2022,02.01.2023,10117 ,Berlin
-475,Bündnis 90 / Die Grünen,50.001,Verband der Bayerischen Metall- und Elektro-Industrie e. V.,Max-Joseph-Straße 5,80333 München,30.12.2022,02.01.2023,80333 ,München
+474,Bündnis 90/Die Grünen,100.000,Jochen Wermuth,Johannisstraße 3,10117 Berlin,30.12.2022,02.01.2023,10117 ,Berlin
+475,Bündnis 90/Die Grünen,50.001,Verband der Bayerischen Metall- und Elektro-Industrie e. V.,Max-Joseph-Straße 5,80333 München,30.12.2022,02.01.2023,80333 ,München
